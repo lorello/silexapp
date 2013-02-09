@@ -1,0 +1,4 @@
+Install with composer
+
+$ curl -s http://getcomposer.org/installer | php
+$ composer.phar install

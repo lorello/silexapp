@@ -1,0 +1,20 @@
+{
+    "type": "application",
+    "description": "An example app made with Silex, by LoreLLo",
+    "license": "BSD-3",
+    "authors": [
+        {"name": "LoreLLo", "email": "lorenzo.salvadorini@softecspa.it"}
+    ],
+
+    "require": {
+        "php": ">=5.3.0",
+        "silex/silex": "1.0.*",
+        "doctrine/dbal": "2.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
