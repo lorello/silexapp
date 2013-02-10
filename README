@@ -2,3 +2,23 @@ Install with composer
 
 $ curl -s http://getcomposer.org/installer | php
 $ composer.phar install
+
+
+Reading
+
+* Silex project organization
+- http://php-and-symfony.matthiasnoback.nl/2012/02/silex-set-up-your-project-for-testing-with-phpunit/
+- http://php-and-symfony.matthiasnoback.nl/2012/01/silex-getting-your-project-structure-right/
+
+* Queue
+- http://xmeng.wordpress.com/2011/11/14/pubsub-in-redis-using-php/
+
+* Event programming
+- http://blog.jmoz.co.uk/websockets-ratchet-react-redis
+- https://github.com/jmoz/silex-test
+
+* ReST Approach
+- http://davedevelopment.co.uk/2012/02/16/how-im-doing-rest.html
+
+
+- http://cambridgesoftware.co.uk/blog/item/59-backbonejs-%20-php-with-silex-microframework-%20-mysql
