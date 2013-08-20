@@ -11,14 +11,16 @@ Reading
 - http://php-and-symfony.matthiasnoback.nl/2012/01/silex-getting-your-project-structure-right/
 
 * Queue
+- https://github.com/nrk/PredisServiceProvider#predisserviceprovider
 - http://xmeng.wordpress.com/2011/11/14/pubsub-in-redis-using-php/
 
 * Event programming
+- https://github.com/nrk/predis-async (require php extension phpiredis)
 - http://blog.jmoz.co.uk/websockets-ratchet-react-redis
 - https://github.com/jmoz/silex-test
 
 * ReST Approach
 - http://davedevelopment.co.uk/2012/02/16/how-im-doing-rest.html
 
-
+- http://davedevelopment.co.uk/2011/11/02/handling-symfony-events-asynchronously.html
 - http://cambridgesoftware.co.uk/blog/item/59-backbonejs-%20-php-with-silex-microframework-%20-mysql
