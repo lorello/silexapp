@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Data Source" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="6fdc97e7-a25e-46da-85d4-d7733319756d">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://localhost/mysql</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfc8dfc5</user-password>
+    <default-dialect>MySQL</default-dialect>
+    <libraries>
+      <library>
+        <url>jar://$USER_HOME$/bin/phpstorm/lib/ext/mysql-connector-java-5.1.22-bin.jar!/</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/bin/phpstorm/lib/ext/mysql-connector-license.txt</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
